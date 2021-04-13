@@ -1,17 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome Everyone
 
-You can use the [editor on GitHub](https://github.com/RajeevDd/RajeevD.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is Rajeev Dhurandhar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Just a test.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Why this site?
+
+AS sais this is just a test.
 
 ```markdown
-Syntax highlighted code block
+<Syntax highlighted code block>
 
-# Header 1
+# heading 1
 ## Header 2
 ### Header 3
 
